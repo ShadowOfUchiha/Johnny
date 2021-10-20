@@ -144,7 +144,7 @@
                                     Dit is dus mijn eerste zelf project waar ik heel wat tijd in heb gestopt.</p>
                                 <footer><p>Je ziet wel dat ik verder ben ontwikkelt in mijn skills en ook design denkwijze en dat is altijd leuk om te zien.</p>
                                 <p>Team: 1 man || Rol: Developer || Talen: html, css || 11/04/2020</p></footer>
-                                <a target="_blank" href="https://github.com/ShadowOfUchiha/ShadowOfUchiha.github.io"><img src="./images/github-logo.png" height="50px" width="50px" alt="Github"></a>
+                                <a target="_blank" href="https://github.com/ShadowOfUchiha/old-portfolio"><img src="./images/github-logo.png" height="50px" width="50px" alt="Github"></a>
                             </div>
                         </div>
                     </div>
