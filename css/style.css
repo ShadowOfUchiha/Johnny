@@ -1,125 +1,28 @@
-/* General */
-
-button, a {
-    transition: all 0.2s ease;
-}
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
 
 a {
     text-decoration: none;
 }
 
-/* Colors */
-
-.bg-primary {
-    background-color: #246EB9!important;
+body {
+    margin: 0!important;
+    font-family: 'Roboto', sans-serif!important;
 }
 
-.bg-secondary {
-    background-color: #0caa0c!important;
+p {
+    font-size: 17px!important;
+    font-weight: 300!important;
 }
 
-.highlight {
-    color: #246EB9;
+button {
+    background-color: #000!important;
+    color: #fff!important;
+    border-radius: 5%!important;
+    font-size: 17px!important;
+    padding: 9px 27px!important;
+    border: 0px!important;
 }
 
-/* Navbar */
-
-.navbaritems{
-    color: white;
-    text-decoration: none;
-    padding-top: 0.6rem;
-    padding-right: 0.9rem;
-    font-size: 1.1rem;
-    background-color: transparent;
-    border: 0;
-}
-.navbaritems:hover, .navbaritems.active{
-    color:#246EB9;
-}
-
-/* Header */
-
-#header .bg-image {
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    height: calc(100vh - 135px);
-}
-
-.bg-cover {
-    background-color: #0000009d;
-    height: calc(100vh - 135px);
-}
-
-#header h1 {
-    font-size: 2.8rem;
-}
-
-/* introduction */
-
-#introduction p, #screenshots p {
-    font-size: 1.1rem;
-    font-weight: 200;
-    line-height: 1.7rem;
-}
-
-#introduction h4, #screenshots h4 {
-    font-weight: 200;
-}
-
-/* Footer */
-
-#footer .text div a{
-    opacity: 0.8;
-    color: #fff;
-    font-size: 1.1rem;
-}
-
-#footer .text div a:hover{
-    opacity: 1;
-}
-
-/* snippet */
-
-#blocks a, #snippet a {
-    cursor: pointer;
-}
-
-#snippet p, #block p {
-    color: #fff;
-    font-size: 1.6rem;
-    font-weight: 400;
-}
-
-#snippet {
-    height: 220px;
-}
-
-.snip-cover {
-    background-color: transparent;
-    transition: background-color 0.3s ease;
-    background-color: #0000002d;
-}
-
-.snip-cover:hover {
-    background-color: #00000073;
-}
-
-.small {
-    font-size: 1.2rem!important;
-}
-
-/* work */
-
-.work-box {
-    border: 1px solid black;
-    margin: 0;
-    box-shadow: 0px 0px 11px -3px #000000;
-}
-
-@media (min-width: 768px) {
-    #header h1 {
-        font-size: 4.8rem;
-    }
-
+button:hover {
+    background-color: #fdb04f!important;
 }
