@@ -54,21 +54,7 @@
         </div>
     </section>
 
-    <section id="introduction">
-        <div class="bg-dark py-5">
-            <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-11 col-md-7 col-lg-5 text-white text-center">
-                        <article>
-                            <h4 class="mb-3">Kort samengevat</h4>
-                            <p>Ik ben Johnny Magielse, een 18 jarige Software Developer in opleiding. Ik zie coderen als een uitdaging en daarom probeer ik altijd net wat meer te geven.
-                                Ik ben niet altijd de heilige want soms heb ik er geen zin in, maar als ik eenmaal begin ben ik niet te stoppen, want soms vergeet ik zelfs te eten.</p>
-                        </article>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+
 
     <section id="blocks">
         <div class="bg-dark">
